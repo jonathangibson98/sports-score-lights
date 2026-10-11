@@ -12,11 +12,11 @@ FLASH_COUNT = 3              # how many times group1/group2 trade colors per sco
 
 # One shared JSON file holds last-seen scores for EVERY team tracker app,
 # keyed by app name. No HA entities/helpers needed no matter how many
-# team_lights_* apps you run.
-SCORE_STATE_FILE = "/homeassistant/appdaemon/team_lights_score_state.json"
+# sports_score_lights apps you run.
+SCORE_STATE_FILE = "/homeassistant/appdaemon/sports_score_lights_state.json"
 
 
-class TeamScoreLights(hass.Hass):
+class SportsScoreLights(hass.Hass):
 
     def initialize(self):
         # ---------------------------------------------------------
