@@ -1,6 +1,16 @@
 ![Sports Score Lights](sports-score.jpg)
 
-# Sports Score Lights for AppDaemon
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="logo.png" alt="Logo" width="120"/>
+    </td>
+    <td>
+      <h1>Sports Score Lights for AppDaemon</h1>
+      <p>Dynamic Team Colors & Score Flashing for AppDaemon</p>
+    </td>
+  </tr>
+</table>
 
 An AppDaemon app for Home Assistant that dynamically controls your smart lights based on live sports scores. It alternates your lights between your team's and opponent's colors during normal play, and triggers an exciting color-flashing sequence whenever a major scoring play (like a touchdown or field goal) happens!
 
