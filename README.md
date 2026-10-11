@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center" width="140">
-      <img src="logo.png" alt="Logo" width="120"/>
+      <img src="logo.svg" alt="Logo" width="120"/>
     </td>
     <td>
       <h1>Sports Score Lights for AppDaemon</h1>
