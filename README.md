@@ -25,7 +25,7 @@ An AppDaemon app for Home Assistant that dynamically controls your smart lights 
 ---
 
 ## Installation via HACS
-[![Open your Home Assistant instance and open Sports Score Lights inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=jonathangibson98&repository=sports-score-lights&category=plugin)
+[![Open your Home Assistant instance and open Sports Score Lights inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=jonathangibson98&repository=sports-score-lights&category=appdaemon)
 1. Open **HACS** in your Home Assistant dashboard.
 2. Click on **Automations** (or **Apps** depending on your HACS version).
 3. Click the three dots in the top right corner and select **Custom repositories**.
