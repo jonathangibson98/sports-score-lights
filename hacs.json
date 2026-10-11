@@ -1,0 +1,5 @@
+{
+  "name": "Sports Score Lights",
+  "content_type": "appdaemon",
+  "filename": "apps/sports_score_lights/sports_score_lights.py"
+}
